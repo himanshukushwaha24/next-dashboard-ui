@@ -1,4 +1,4 @@
-# Lama Dev School Management Dashboard
+# Nice Public School Management Dashboard
 
 ## Getting Started
 
